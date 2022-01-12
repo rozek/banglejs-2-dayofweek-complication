@@ -1,4 +1,4 @@
-(function () {
+;(function () {
   let Weekdays = [ 'Su','Mo','Tu','We','Th','Fr','Sa' ];
 
   exports.draw = function draw (x,y, Radius, Settings) {
